@@ -6,6 +6,8 @@
 It offers a collection of tools to promote the personalization of an RPG Maker VX Ace project.
 It is the result of the work of many people and any contribution is welcome.
 
+**:construction: 汉化版本为 [RME_zhCN.rb](https://github.com/zyf722/RME/blob/master/RME_zhCN.rb) ，目前汉化进度 10%。**
+
 ***
 
 ## Some features:
