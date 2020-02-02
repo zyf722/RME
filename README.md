@@ -6,10 +6,10 @@
 It offers a collection of tools to promote the personalization of an RPG Maker VX Ace project.
 It is the result of the work of many people and any contribution is welcome.
 
-## About Chinese Translation
+## 关于汉化
 **:construction: 汉化版本为 [RME_zhCN.rb](https://github.com/zyf722/RME/blob/master/RME_zhCN.rb) ，目前汉化进度 13%。**
 
-#### Chinese Translation Contributors:
+#### 由以下人员汉化：
 - zyf722 (Line 1-1170 & Line 16078-16806)
 
 
